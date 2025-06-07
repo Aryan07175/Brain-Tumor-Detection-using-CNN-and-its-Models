@@ -1,9 +1,9 @@
 # 🧠 Brain Tumor Classification using Deep Learning
 
-🎉 I  did it (somehow 😄)**  
+🎉 I  did it (somehow 😄)
 Late-night struggles, days of testing and training, hours of laughter, confusion, and countless sleepless nights — this project has been a wild ride!
 
-a  set out to build a deep learning model that could classify brain tumors from MRI scans.
+ set out to build a deep learning model that could classify brain tumors from MRI scans.
 
 ---
 
