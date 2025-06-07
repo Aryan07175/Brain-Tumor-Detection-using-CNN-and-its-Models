@@ -51,19 +51,8 @@ Each model had its strengths and taught us different lessons in architecture des
 
 - Patience is a superpower when training deep learning models
 - Confusion is the first step toward understanding
-- Debugging together is better than debugging alone
-- A good partner (shoutout to Gitaa!) makes every problem easier to solve
+  
 
----
-
-## 🏁 Future Work
-
-- Add Grad-CAM visualizations for model interpretability
-- Hyperparameter tuning with cross-validation
-- Convert the best model to ONNX or TensorFlow Lite for deployment
-- Integrate with a simple Flask or Streamlit web app for demo
-
----
 
 ## 🙌 Acknowledgments
 
